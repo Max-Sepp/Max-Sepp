@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Max-Sepp
+- 👋 Hi, I’m Max Smith
 - 👀 I’m interested in computer science and web development
 - 🌱 I’m currently learning pytorch and frontend web development
+- I particularly enjoy the challenges of backend development
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 --->
 
-<!---
-Max-Sepp/Max-Sepp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
